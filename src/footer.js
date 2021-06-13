@@ -51,7 +51,7 @@ class Footer extends React.Component {
           <p className="attribution">
             Created by{" "}
             <a href="https://www.github.com/Destus-design">
-              NnekaSandra @devChallenges.io
+              Destus-design @devChallenges.io
             </a>
           </p>
         </center>
